@@ -33,10 +33,9 @@ Result:
   - Per-city statistics of simulated patrol coverage.
 
 -  Subregion exports:
-  
-  - `Subregion html/` – per-city interactive HTML maps.
-  - `Subregion pdf/` – per-city high-resolution PDF maps.
-  - `Subregion png/` – per-city PNG snapshots.
+   - `Subregion html/` – per-city interactive HTML maps.
+   - `Subregion pdf/` – per-city high-resolution PDF maps.
+   - `Subregion png/` – per-city PNG snapshots.
 
 > **Note on large files**  
 > High-resolution PNG/PDF/HTML outputs and all per-city exports are too large
