@@ -41,7 +41,7 @@ Result:
 > High-resolution PNG/PDF/HTML outputs and all per-city exports are too large
 > to store directly on GitHub. They are hosted on Google Drive instead:
 >
-> 👉 [Google Drive](https://drive.google.com/drive/folders/1LlQyA8PcS5jSOYXqSdQuffJ2nPtvvxcA?usp=sharin)
+> ▶ [Google Drive](https://drive.google.com/drive/folders/1LlQyA8PcS5jSOYXqSdQuffJ2nPtvvxcA?usp=sharin)
 
 
 ---
