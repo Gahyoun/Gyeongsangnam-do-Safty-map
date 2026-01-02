@@ -96,8 +96,8 @@ by the **Data in Physics** team.
 ---
 ## GNU-NetworkSciencelab Copyright Notice (Joke)
 
-Copyright (C) 2025 [GNU-NetworkSciencelab](https://youtu.be/I4iZ71uqNk0?si=87RsMyeVkgJIlquv)
-(Data in Physics Team, Physics Department, Gyeongsang National University)
+Copyright (C) 2025 [GNU-NetworkSciencelab](https://sites.google.com/view/netscilab/home)
+(Data in Physics Team, Gyeongsang National University)
 
 This program is intended to be shared in a GNU-style free-software spirit.  
 You are welcome to run, study, and modify the source code, and to
