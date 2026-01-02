@@ -4,28 +4,9 @@ Agent-based patrol simulation and safety heatmaps for all 18 municipalities
 in Gyeongsangnam-do, Korea. This repository implements the workflow used in
 the “융·복합 ICT 활용 공모전 2025” by the **데이터에 물리다 (Data in Physics)** team.
 
-> **Note on large files**  
-> High-resolution PNG/PDF/HTML outputs and all per-city exports are too large
-> to store directly on GitHub. They are hosted on Google Drive instead:
->
-> 👉 https://drive.google.com/drive/folders/1LlQyA8PcS5jSOYXqSdQuffJ2nPtvvxcA?usp=drive_link
-
 ---
 
 ## Repository structure
-
-- `Gyeongsangnam-do_18시군_EDGE10m_ens100_p0.010.html`
-- `Gyeongsangnam-do_18시군_EDGE10m_ens100_p0.010.png`
-- `Gyeongsangnam-do_18시군_EDGE10m_ens100_p0.010.pdf`  
-  - Final, province-wide safety map (HTML / PNG / PDF).
-- `Gyeongsangnam-do_18시군_EDGE10m_ens100_p0.010_summary_by_muni.csv`  
-  - Per-city statistics of simulated patrol coverage.
-
-Subregion exports:
-
-- `Subregion html/` – per-city interactive HTML maps.
-- `Subregion pdf/` – per-city high-resolution PDF maps.
-- `Subregion png/` – per-city PNG snapshots.
 
 Input data (not uploaded here, paths referenced in the notebook):
 
@@ -42,6 +23,27 @@ Main analysis notebook:
   End-to-end pipeline: data loading, OSM road network processing,
   junction-graph construction, agent-based patrol simulation,
   and export of figures and HTML maps.
+
+Result:
+- `Gyeongsangnam-do_18시군_EDGE10m_ens100_p0.010.html`
+- `Gyeongsangnam-do_18시군_EDGE10m_ens100_p0.010.png`
+- `Gyeongsangnam-do_18시군_EDGE10m_ens100_p0.010.pdf`  
+  - Final, province-wide safety map (HTML / PNG / PDF).
+- `Gyeongsangnam-do_18시군_EDGE10m_ens100_p0.010_summary_by_muni.csv`  
+  - Per-city statistics of simulated patrol coverage.
+
+Subregion exports:
+
+- `Subregion html/` – per-city interactive HTML maps.
+- `Subregion pdf/` – per-city high-resolution PDF maps.
+- `Subregion png/` – per-city PNG snapshots.
+- 
+> **Note on large files**  
+> High-resolution PNG/PDF/HTML outputs and all per-city exports are too large
+> to store directly on GitHub. They are hosted on Google Drive instead:
+>
+> 👉 https://drive.google.com/drive/folders/1LlQyA8PcS5jSOYXqSdQuffJ2nPtvvxcA?usp=drive_link
+
 
 ---
 
