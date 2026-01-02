@@ -32,11 +32,11 @@ Result:
 - `Gyeongsangnam-do_18시군_EDGE10m_ens100_p0.010_summary_by_muni.csv`  
   - Per-city statistics of simulated patrol coverage.
 
-Subregion exports:
-
-- `Subregion html/` – per-city interactive HTML maps.
-- `Subregion pdf/` – per-city high-resolution PDF maps.
-- `Subregion png/` – per-city PNG snapshots.
+  Subregion exports:
+  
+  - `Subregion html/` – per-city interactive HTML maps.
+  - `Subregion pdf/` – per-city high-resolution PDF maps.
+  - `Subregion png/` – per-city PNG snapshots.
 
 > **Note on large files**  
 > High-resolution PNG/PDF/HTML outputs and all per-city exports are too large
