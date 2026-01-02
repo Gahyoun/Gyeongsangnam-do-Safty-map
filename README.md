@@ -4,6 +4,12 @@ Agent-based patrol simulation and safety heatmaps for all 18 municipalities
 in Gyeongsangnam-do, Korea. This repository implements the workflow used in
 the “융·복합 ICT 활용 공모전 2025” by the **데이터에 물리다 (Data in Physics)** team.
 
+> **Note on large files**  
+> High-resolution PNG/PDF/HTML outputs and all per-city exports are too large
+> to store directly on GitHub. They are hosted on Google Drive instead:
+>
+> 👉 https://drive.google.com/drive/folders/1LlQyA8PcS5jSOYXqSdQuffJ2nPtvvxcA?usp=drive_link
+
 ---
 
 ## Repository structure
@@ -86,10 +92,10 @@ This work was created for
 by the **Data in Physics** team.
 
 ---
-## GNU-NetworkSciencelab Copyright Notice (Parody)
+## GNU-NetworkSciencelab Copyright Notice (Joke)
 
-Copyright (C) 2025  GNU-NetworkSciencelab  
-(Data in Physics Team, Gyeongsang National University)
+Copyright (C) 2025 [GNU-NetworkSciencelab](https://youtu.be/I4iZ71uqNk0?si=87RsMyeVkgJIlquv)
+(Data in Physics Team, Physics Department, Gyeongsang National University)
 
 This program is intended to be shared in a GNU-style free-software spirit.  
 You are welcome to run, study, and modify the source code, and to
@@ -103,4 +109,4 @@ guarantee of correctness, fitness for a particular purpose, or safety
 for operational deployment. Use at your own risk.
 
 **Note**
-All members are affiliated with GNU (Gyeongsang National University, Jinju, Korea)'s Physics department.
+All members are affiliated with GNU (Gyeongsang National University, Jinju, Korea)'s Physics department😉.
